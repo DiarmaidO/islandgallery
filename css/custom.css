@@ -56,5 +56,9 @@ button {
     color: inherit;
     font: "calibri"
 }
-
+.img-responsive:hover {
+	cursor: pointer;
+    height:68px;
+    width: 68px;	
+}
 
